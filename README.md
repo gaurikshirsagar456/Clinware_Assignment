@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Internship Assignment: Weather-Based Activity Recommender
 
 ## Project Overview
@@ -42,3 +43,6 @@ There are 5 main tasks marked with `TODO` in the codebase:
 
 ---
 **Good luck!**
+=======
+# Clinware_Assignment
+>>>>>>> 0a121de362af3ccfa077569f1361630a7de98f31
